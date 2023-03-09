@@ -1,0 +1,20 @@
+Date: 27/02/2023
+
+InTime :- 12:30 AM
+OutTime :- 9:00 PM
+
+Name : Bhautik Jani
+LearnTechnology : Node.js
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 230 Hours.
+
+Today's work :- Details description of today's work.
+
+Introduction of nodejs
+Fundamentals foundations and environment setup
+Fundamentals Internals
+21. Appendix How JavaScript Works
+22. Appendix Asynchronous JavaScript
+
+STATUS OF LEARNING / WORKING : all good
